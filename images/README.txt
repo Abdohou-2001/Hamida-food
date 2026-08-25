@@ -1,6 +1,6 @@
 HAMIDA FOOD — IMAGE ASSETS
 
-Copy the contents of this folder into your project:
+ this folder in my project:
 
 images/
 ├── logo.png
